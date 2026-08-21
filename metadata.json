@@ -1,0 +1,6 @@
+{
+  "name": "Sarathi Automation",
+  "description": "Secure daily offline password verification and high-speed WebView automation for the Sarathi Parivahan portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
